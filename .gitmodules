@@ -1,0 +1,6 @@
+[submodule "alphafold"]
+	path = alphafold
+	url = https://github.com/chenxingqiang/alphafold.git
+[submodule "NeuralPLexer"]
+	path = NeuralPLexer
+	url = https://github.com/chenxingqiang/NeuralPLexer.git
