@@ -11,8 +11,17 @@
             "program": "alphafold/alphafold/model/tf/protein_features_test.py",
             "console": "integratedTerminal",
             "env": {
-                "PYTHONPATH": "${workspaceFolder}/alphafold",
-                "ANOTHER_VARIABLE": "value"
+                "PYTHONPATH": "${workspaceFolder}/alphafold"
+            }
+        },
+        {
+            "name": "Python Debugger: residue constants test",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "alphafold/alphafold/common/residue_constants_test.py",
+            "console": "integratedTerminal",
+            "env": {
+                "PYTHONPATH": "${workspaceFolder}/alphafold"
             }
         }
     ]
