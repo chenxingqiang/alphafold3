@@ -4,3 +4,6 @@
 [submodule "NeuralPLexer"]
 	path = NeuralPLexer
 	url = https://github.com/chenxingqiang/NeuralPLexer.git
+[submodule "openfold"]
+	path = openfold
+	url = https://github.com/chenxingqiang/openfold.git
